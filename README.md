@@ -1,7 +1,7 @@
 # OrcaRobot
 [![orcalab](https://img.shields.io/badge/Engine-orcalab-orange)](https://github.com/openverse-orca/orcalab)
 [![License](https://img.shields.io/github/license/openverse-orca/OrcaRobot?color=blue)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/openverse-orca/orcarobot?style=social)](https://github.com/your-org/rocarobot)
+[![Stars](https://img.shields.io/github/stars/openverse-orca/OrcaRobot?style=social)](https://github.com/openverse-orca/OrcaRobot)
 
 **OrcaRobot** 是 **[OrcaLab](https://github.com/openverse-orca/orcalab)** 引擎的官方机器人示例仓库，汇集了各类机器人应用场景的完整、可直接运行的示例代码，帮助开发者快速掌握基于orcalab进行机器人算法开发的使用方法。
 
