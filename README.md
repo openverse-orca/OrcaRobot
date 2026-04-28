@@ -46,11 +46,13 @@ pip install orca-lab
 
 ## 🔗 相关项目
 
-- **orcalab 引擎**：https://github.com/openverse-orca/orcalab
-- 问题反馈：https://github.com/openverse-orca/orcarobot/issues
+- **OrcaLab引擎**：https://github.com/openverse-orca/orcalab
+- **OrcaGym**：https://github.com/openverse-orca/OrcaGym
+- **OrcaManipulation**：https://github.com/openverse-orca/OrcaManipulation
+- **OrcaPlayground**：https://github.com/openverse-orca/OrcaPlayground
 
 ---
 
-**Made with ❤️ by orcalab Team**
+**Made with ❤️ by OrcaLab Team**
 
 *欢迎 Star 支持我们！任何建议或新示例想法都欢迎在 [Issue](https://github.com/openverse-orca/orcarobot/issues) 中提出。*
