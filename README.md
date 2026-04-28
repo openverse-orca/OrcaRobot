@@ -1,18 +1,16 @@
-# RocaRobot
-
-[![License](https://img.shields.io/github/license/openverse-orca/orcarobot?color=blue)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![orcalab](https://img.shields.io/badge/Engine-orcalab-orange)](https://github.com/your-org/orcalab)
+# OrcaRobot
+[![orcalab](https://img.shields.io/badge/Engine-orcalab-orange)](https://github.com/openverse-orca/orcalab)
+[![License](https://img.shields.io/github/license/openverse-orca/OrcaRobot?color=blue)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/openverse-orca/orcarobot?style=social)](https://github.com/your-org/rocarobot)
 
-**RocaRobot** 是 **[orcalab](https://github.com/openverse-orca/orcalab)** 引擎的官方机器人示例仓库，汇集了各类机器人应用场景的完整、可直接运行的示例代码，帮助开发者快速掌握基于orcalab进行机器人算法开发的使用方法。
+**OrcaRobot** 是 **[OrcaLab](https://github.com/openverse-orca/orcalab)** 引擎的官方机器人示例仓库，汇集了各类机器人应用场景的完整、可直接运行的示例代码，帮助开发者快速掌握基于orcalab进行机器人算法开发的使用方法。
 
 ---
 
 ## 📋 先决条件
 
 - Python 3.8 或更高版本
-- 已安装 **[orcalab](https://github.com/openverse-orca/orcalab)** 引擎
+- 已安装 **[OrcaLab](https://github.com/openverse-orca/orcalab)** 引擎
 
 ## 🚀 快速安装与运行
 
@@ -21,7 +19,7 @@
 # 请替换为实际的 orcalab 安装命令
 pip install orca-lab
 ```
-详细安装，请参考 [orcalab 安装指南](https://github.com/openverse-orca/OrcaLab/blob/main/INSTALL.md)。
+详细安装，请参考 [OrcaLab 安装指南](https://github.com/openverse-orca/OrcaLab/blob/main/INSTALL.md)。
 
 ## 📂 示例目录
 
