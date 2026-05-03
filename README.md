@@ -25,7 +25,7 @@ pip install orca-lab
 
 | 目录 | 示例名称| 详情 |
 |------|----------|------|
-| `so101` | 基于PI0.5的Lerbot机械臂操作| [examples/so101](./examples/so101/README.md) |
+| `so101` | 基于PI0.5的Lerobot机械臂操作| [examples/so101](./examples/so101/README.md) |
 | `kimodo` | 机器人运动控制示例 | [examples/kimodo](./examples/kimodo/README.md) |
 
 ---
