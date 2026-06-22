@@ -1,6 +1,6 @@
 # SO101 使用指南
 
-SO101 示例用于在 `OrcaPlayground` 中运行单臂抓取推理与相机监控。
+SO101 示例用于在 `OrcaRobot` 中运行单臂抓取推理与相机监控。
 
 当前目录包含两个主要入口：
 
@@ -81,7 +81,7 @@ pkg-config --modversion libavformat
 
 ```bash
 GIT_LFS_SKIP_SMUDGE=1 uv sync --python 3.11
-git apply /path/to/OrcaPlayground/examples/so101/openpi_patches/so101_openpi.patch
+git apply /path/to/OrcaRobot/examples/so101/openpi_patches/so101_openpi.patch
 ```
 
 说明：
@@ -98,7 +98,7 @@ git apply /path/to/OrcaPlayground/examples/so101/openpi_patches/so101_openpi.pat
 pip install -r requirements.txt
 pip install -r examples/so101/requirements.txt
 ```
-注：请先启动orcalab
+注：请先启动orcalab, 打开相机监控IsRecording
 ### 1. 启动策略服务
 
 ```bash
@@ -118,7 +118,7 @@ uv run --no-sync scripts/serve_policy.py policy:checkpoint \
 
 ```bash
 conda activate orcalab  # 或你的 OrcaLab 环境名称
-cd OrcaPlayground
+cd OrcaRobot
 python examples/so101/so101_sim_inference_client.py \
     --task "Pick up the blue block"
 ```
@@ -138,7 +138,7 @@ python examples/so101/so101_sim_inference_client.py --interactive-task
 
 ```bash
 conda activate orcalab  # 或你的 OrcaLab 环境名称
-cd OrcaPlayground
+cd OrcaRobot
 python examples/so101/camera_monitor.py --ports 7070 7090
 ```
 
